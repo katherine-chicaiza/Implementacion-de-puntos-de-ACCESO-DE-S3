@@ -1,0 +1,11 @@
+1) Puntos de acceso de Amazon S3
+
+Administre fácilmente el acceso a los conjuntos de datos compartidos en S3
+
+Los clientes utilizan cada vez más Amazon S3 para almacenar conjuntos de datos compartidos cuando los datos están agregados y el acceso a los mismos debe realizarse desde aplicaciones distintas, equipos y personas, tanto para análisis, machine learning, monitorización en tiempo real u otros casos de uso de lagos de datos. La administración del acceso a este bucket compartido requiere una única política de bucket que controle el acceso para decenas de cientos de aplicaciones con distintos niveles de permisos.
+
+2) Lagos de datos y análisis en AWS
+
+La forma más rápida de obtener respuestas de todos sus datos a todos sus usuarios
+
+AWS ofrece un conjunto integrado de servicios que proveen todo lo necesario para crear y administrar de manera rápida y sencilla un data lake destinado al análisis. Los ldata lakes con tecnología de AWS pueden manejar el nivel de escala, agilidad y flexibilidad requerido para combinar diferentes tipos de datos y enfoques analíticos a los fines de obtener información más detallada.
